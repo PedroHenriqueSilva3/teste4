@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+.caixinha {
+    width: 17%;
+    background: #212529;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-family: 'Yeseva One', cursive;
+}
+
+.caixinha h2 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 20px;
+}
+section {
+    display: flex;
+    justify-items: end;
+}
+.nav-item{
+    margin-left: 585px;
+    font-family: 'Yeseva One', cursive;
+}
+    
+.nav-item.dropdown {
+    margin-left: 5px;
+    font-family: 'Yeseva One', cursive;
+}
+.continuelendo{
+    height: 50px;
+    width: 160px;
+    background-color: blue;
+    font-family: 'Yeseva One', cursive;
+    margin-left: 50px;
+    border-radius: 6px;
+}
+.continuelendo h2{
+    font-size: 18px;
+    padding-top: 8%;
+    padding-left: 10px;
+
+}
+.card {
+    width: 300px;
+}
+.card-img-top{
+    height: 350px;
+    width: 100px;
+}

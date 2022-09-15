@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+
+.cabecalho{
+    height: 200px;
+    width: 100%;
+    background-color: gray;
+    margin: auto;
+}
+.cabecalho p{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 120px;
+    font-family: 'Yeseva One', cursive;
+   
+}
+.button1{
+    color: black;
+    background-color: brown;
+    margin: auto;
+}
+
+section {
+    flex-direction: row;
+}
+
+.card4 {
+    width: 100%;
+    height: 100%;
+}
+.rodape {
+    font-family: 'Mali', cursive;
+    text-align: center;
+}
